@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/webbydon29/group_html2#readme",
   "devDependencies": {
-    "eslint": "^4.18.2"
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
   }
 }
